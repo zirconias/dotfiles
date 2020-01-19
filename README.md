@@ -3,7 +3,7 @@ my dotfiles
 
 
 ## ref
-https://github.com/yutakatay/dotfiles-mini - automatic
+https://github.com/yutakatay/dotfiles-mini
 
 https://github.com/yutakatay/dotfiles
 
